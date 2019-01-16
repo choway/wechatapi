@@ -4,5 +4,7 @@ server:
     context-path: /wechat
 
 wechat:
+  appid: wx033a6925426dcf82
+  secret: eb453eb6d580072bc3b68c3161085757
   message:
     token: token
